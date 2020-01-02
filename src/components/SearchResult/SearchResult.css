@@ -1,0 +1,20 @@
+.searchResult {
+  width: 33%;
+  /* height: 300px; */
+  padding: .88rem;
+  background-color: #173f52;
+  box-shadow: 0 3px 2px 2px #000000;
+  border-radius: 54px;
+  text-align: center;
+  margin: auto;
+  margin-top: 6%;
+}
+
+.bold {
+  font-size: 25px;
+  font-weight: 600; 
+}
+
+.big {
+  font-size: 30px;
+}
